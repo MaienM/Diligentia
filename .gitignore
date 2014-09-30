@@ -22,5 +22,4 @@ build/
 debug/
 eclipse/
 out/
-gradle/
 *.txt
