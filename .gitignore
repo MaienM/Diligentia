@@ -23,3 +23,8 @@ debug/
 eclipse/
 out/
 *.txt
+
+#IntelliJ stuff
+Diligentia.iml
+Diligentia.ipr
+Diligentia.iws
