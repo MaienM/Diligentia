@@ -25,6 +25,6 @@ out/
 *.txt
 
 #IntelliJ stuff
-Diligentia.iml
-Diligentia.ipr
-Diligentia.iws
+*.iml
+*.ipr
+*.iws
